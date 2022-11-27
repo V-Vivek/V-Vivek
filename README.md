@@ -44,6 +44,7 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="hive" width="40" height="40"/>
   
 <h4 align="left">Softwares:</h4>
 <p align="left"> 
