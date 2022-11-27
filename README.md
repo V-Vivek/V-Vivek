@@ -52,13 +52,8 @@
 <img src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png" alt="anaconda" width="40" height="40"/> 
 
 
-[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsingh17&hide=java,html,css&theme=radical)](https://github.com/vishalsingh17/github-readme-stats)
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Vivek&hide=java,html,css&theme=radical)](https://github.com/V-Vivek/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Vivek&hide=java,html,css&theme=tokyonight)](https://github.com/V-Vivek/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsingh17&hide=java,html,css&theme=tokyonight)](https://github.com/vishalsingh17/github-readme-stats)
-
-
-<!-- [![Vishal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishalsingh17)](https://github.com/vishalsingh17/github-readme-stats&show_icons=true&theme=radical) -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh17&&hide=java,html,css&theme=radical" alt="vishalsingh17" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=V-Vivek&&hide=java,html,css&theme=radical" alt="V-Vivek" /></p>
