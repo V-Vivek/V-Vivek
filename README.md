@@ -12,8 +12,6 @@
 <h4 align="left">Languages:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   
 <h4 align="left">Databases:</h4>
 <p align="left">
@@ -26,13 +24,7 @@
 <h4 align="left">Libraries</h4>
 <p align="left">
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
-<img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
 <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/>
-
-<h4 align="left">Frameworks:</h4>
-<p align="left"> 
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200210175202/django-basics.png" alt="django" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   
 <h4 align="left">Clouds:</h4>
 <p align="left">
@@ -49,8 +41,6 @@
 <h4 align="left">Softwares:</h4>
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png" alt="anaconda" width="40" height="40"/> 
 
 
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Vivek&hide=java,html,css&theme=radical)](https://github.com/V-Vivek/github-readme-stats)
